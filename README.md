@@ -1,0 +1,2 @@
+This is my answer to this freeCodeCamp exercise: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
+To view the website click here: https://codepen.io/peter-parker-the-selector/full/zYoryjQ
